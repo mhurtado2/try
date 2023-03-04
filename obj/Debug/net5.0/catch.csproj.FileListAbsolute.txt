@@ -1,0 +1,16 @@
+C:\Users\15204\workspace\try\catch\bin\Debug\net5.0\catch.exe
+C:\Users\15204\workspace\try\catch\bin\Debug\net5.0\catch.deps.json
+C:\Users\15204\workspace\try\catch\bin\Debug\net5.0\catch.runtimeconfig.json
+C:\Users\15204\workspace\try\catch\bin\Debug\net5.0\catch.runtimeconfig.dev.json
+C:\Users\15204\workspace\try\catch\bin\Debug\net5.0\catch.dll
+C:\Users\15204\workspace\try\catch\bin\Debug\net5.0\ref\catch.dll
+C:\Users\15204\workspace\try\catch\bin\Debug\net5.0\catch.pdb
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.csproj.AssemblyReference.cache
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.AssemblyInfoInputs.cache
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.AssemblyInfo.cs
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.csproj.CoreCompileInputs.cache
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.dll
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\ref\catch.dll
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.pdb
+C:\Users\15204\workspace\try\catch\obj\Debug\net5.0\catch.genruntimeconfig.cache
