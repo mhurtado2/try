@@ -37,12 +37,18 @@ class Program
 
         // Create an AddressBook and add some contacts to it
         AddressBook addressBook = new AddressBook();
+
+        try{
         addressBook.AddContact(bob);
         addressBook.AddContact(sue);
         addressBook.AddContact(juan);
-
         // Try to addd a contact a second time
-        // addressBook.AddContact(sue);
+        addressBook.AddContact(sue);
+        }
+        catch(ArgumentException)
+        {
+            Console.WriteLine("This contact has already been adding. Skipping..");
+        }
 
 
         // Create a list of emails that match our Contacts

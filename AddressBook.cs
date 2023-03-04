@@ -6,6 +6,7 @@ namespace AddressBook
     {
         // In C#, a Dictionary is much like the objects that you used in JavaScript.
         //  They are collections of a key/value pairs - just strongly typed.
+        
         Dictionary<string, Contact> Contacts = new();
 
 //method
@@ -18,7 +19,8 @@ namespace AddressBook
 
         public Contact GetByEmail(string email)
         {
-            return Contacts[email]; //why is email here written like an index
+            return Contacts[email]; //written like this because contacts is a dictionary, and you need to use bracket notation to access this property
+        
         }
     }
 }
